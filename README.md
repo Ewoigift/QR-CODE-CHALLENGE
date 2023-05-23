@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution URL]((git@github.com:Ewoigift/QR-CODE-CHALLENGE.git)
+- Solution URL: [solution URL](git@github.com.Ewoigift/QR-CODE-CHALLENGE.git)
 - Live Site URL: [live site URL](https://ewoigift.github.io/QR-CODE-CHALLENGE/)
 
 
